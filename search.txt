@@ -1,3 +1,3 @@
-thisjoys :::: Effect House
-Effect house :::: Tiktok
-Tutorial :::: Effect House
+thisjoys Effect House :::: Effect House
+Random Effect house :::: Effect House
+Tutorial Effect House :::: Effect House
